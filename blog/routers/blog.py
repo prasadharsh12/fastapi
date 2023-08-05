@@ -6,11 +6,7 @@ from blog.database import get_db
 from blog.repository import blog
 
 router = APIRouter(
-<<<<<<< HEAD
     prefix="/blogss",
-=======
-    prefix="/blog",
->>>>>>> 569d6e5a57d82818c18175859511032df78dd73c
     tags=["Blogs"]
 )
 
