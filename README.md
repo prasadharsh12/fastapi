@@ -1,1 +1,1 @@
-# fastAPI Learmings
+# fastAPI Learnings
